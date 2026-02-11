@@ -1,0 +1,24 @@
+table {
+    width: 95%;
+    padding: 20px;
+}
+
+.cafea thead {
+    background-color: #faebd7;
+}
+.cafea tbody{
+    background-color: #fff8ef;
+}
+
+td {
+    padding: 10px;
+}
+
+
+.ceai thead{
+    background-color: #e4ffcf;
+}
+
+.ceai tbody{
+    background-color: #f4ffec;
+}

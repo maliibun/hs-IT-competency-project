@@ -1,0 +1,11 @@
+img {
+    width: 320px;
+    height: 320px;
+}
+body{
+    overflow-x: auto;
+}
+
+table{
+    width: 1650px;
+}

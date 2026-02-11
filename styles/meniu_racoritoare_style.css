@@ -1,0 +1,16 @@
+table{
+    width: 95%;
+    padding:20px;
+}
+
+td{
+    padding:10px;
+}
+
+thead{
+    background-color: #c2e3ff;
+}
+
+tbody{
+    background-color: #e8f4ff;
+}

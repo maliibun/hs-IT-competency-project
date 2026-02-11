@@ -1,0 +1,55 @@
+
+table{
+    border-radius: 5px;;
+    text-align: center;
+    width:90%;
+    padding:20px;
+    margin:50px;
+    background-color: #dff3ff;
+    font-size: 25px;
+}
+
+thead{
+    background-color:white;
+}
+
+tbody{
+    background-color: #f1ffff;
+}
+
+td{
+    padding:20px;
+}
+
+.program-special td{
+    padding: 50px;
+    width:30%;
+}
+
+#meniu-portocaliu{
+    display:inline;
+    background-color:#ffc965;
+    padding:5px;
+    border-radius: 2px;
+}
+
+#ziua-Mou{
+    display:inline;
+    background-color: #ffd0d7;
+    padding:5px;
+    border-radius: 2px;
+}
+
+#ziua-cafelei{
+    display:inline;
+    background-color: bisque;
+    padding:5px;
+    border-radius: 2px;
+}
+
+#meniu-craciun{
+    display:inline;
+    background-color: #ff7777;
+    padding:5px;
+    border-radius: 2px;
+}

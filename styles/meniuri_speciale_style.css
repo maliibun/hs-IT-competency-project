@@ -1,0 +1,30 @@
+table{
+    width:95%;
+    padding:20px;
+    vertical-align: center;
+}
+
+td{
+    padding: 10px;
+}
+
+.portocaliu thead{
+    background-color: #ffdd9d;
+}
+
+.portocaliu tbody{
+    background-color: #fff0d4;
+}
+
+#heading{
+    font-size: 30px;
+    text-align: center;
+}
+
+.craciun thead{
+    background-color: #ff9f9f;
+}
+
+.craciun tbody{
+    background-color: #ffd0d0;
+}

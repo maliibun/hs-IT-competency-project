@@ -1,0 +1,29 @@
+table.menu_table {
+    position: fixed;
+    background-color: #ffc1de;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 30px;
+    left: 20%;
+    width:60%;
+    height:90%;
+    margin-top: 25px;
+}
+
+.menu_table tr {
+    background-color: #ffd0e6;
+    height: 290px;
+}
+
+.menu_table td {
+    padding: 15px;
+    width: 300px;
+    border-radius: 20px;
+}
+
+a {
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}

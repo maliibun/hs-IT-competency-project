@@ -1,0 +1,27 @@
+
+table{
+    border-radius: 5px;;
+    text-align: center;
+    width:90%;
+    padding:20px;
+    margin:50px;
+    background-color: #dff3ff;
+    font-size: 20px;
+}
+
+thead{
+    background-color:white;
+}
+
+tbody{
+    background-color: #f1ffff;
+}
+
+td{
+    padding:20px;
+}
+
+.program-special td{
+    padding: 50px;
+    width:30%;
+}
